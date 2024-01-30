@@ -21,43 +21,25 @@ Hi 👋, I'm Yung-Chu Chiang, a future web developer passionate about interdisci
 - **English Proficiency:** [TOEIC Gold Level Certificate](https://drive.google.com/file/d/17xH5SxvC6x-Y01f9h9l1pu4RPFZIlpUU/preview), comfortable with communication, writing professional articles, and presenting in English.
 - **Data Science:** A range of courses including Data Mining, Applied Computer Vision, [Introduction to AI](https://github.com/imyungchu/Artificial-Intelligence-Course-and-Project), [Introduction to Data Science](https://github.com/imyungchu/Data-Science-homework-and-project), Advanced Statistics, Probability, Simulation, [Genetic Algorithms](https://github.com/imyungchu/Genetic-Algorithm-and-Applications-in-Management-Science).
 
-## Lab Internship Experience
+## Lab Internship Experience: Linggle Write Project Overview
 
 ### Front-end Development for NSC Seed Project (2023.1 - 2023.8)
 
 - Used React and TailwindCSS for a grammar correction tool's front-end.
-- Led project management using GitHub Project, Scrum, and Notion, along with interface design using Figma.
+- Learned valuable lessons in system architecture, code elegance, and diverse project management techniques.
+- Embraced engineering principles such as code style consistency, refactoring for readability and maintainability, and modularization.
+- Developed skills in Figma design, React framework, TailwindCSS, and effective use of libraries.
 
 ### Project Management for Lab Projects (2023.7 - 2023.12)
 
 - Managed various aspects of project management, incorporating GitHub Project, Scrum methodologies, and Notion tools.
-
-### Linggle Write Project Overview
-
+- Led project management using GitHub Project, Scrum, and Notion, along with interface design using Figma.
 - Contributed to front-end development and project management for Linggle Write, an efficient English writing tool.
-- Developed skills in Figma design, React framework, TailwindCSS, and effective use of libraries.
-- Embraced engineering principles such as code style consistency, refactoring for readability and maintainability, and modularization.
-
-### NSC Seed Project Introduction
-
-- Engaged in front-end development and project management for the Linggle Write project, led by Prof. Jason S.Chang at NTHU NLPLab.
-- Gained practical experience and growth in programming and project management.
-- Learned valuable lessons in system architecture, code elegance, and diverse project management techniques.
-
-### Skills Developed in Front-end Development
-
-- Acquired front-end programming skills from scratch, covering Figma design, React framework, and TailwindCSS.
-- Developed a strong understanding of system architecture, including code style, consistent commit messages, and the importance of code refactoring for readability and maintainability.
-- Observed continuous efforts in refactoring to improve overall user experience and learned concepts such as modularization.
-
-### Product Design and Competitive Analysis
-
 - Gained insights into product design, including brainstorming, Figma design, user flow planning, and differentiation analysis through the Kano model.
 - Conducted market research and field testing, including interviews with high school teachers and students.
 - Established a product roadmap and honed communication and coordination skills.
 
-### Expertise in English Writing Tools
-
+### Research takeaways
 - Conducted in-depth research on word sense disambiguation(WSD), English grammar error correction(GEC), explanation of error correction, automatic scoring of English essays, prompt engineering, LLM, generative AI.
 - Developed web styling skills using Streamlit templates, integrated ChatGPT API for English writing tool development.
 
